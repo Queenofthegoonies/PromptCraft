@@ -1,6 +1,6 @@
 # PromptCraft
 ### Turn messy ideas into precision AI prompts
-[README.md](https://github.com/user-attachments/files/25612561/README.md)
+https://github-connection-wjzp.bolt.host/
 
 > You don't need to know how to write prompts. Just say what you mean — PromptCraft translates it into something any AI will understand perfectly.
 
