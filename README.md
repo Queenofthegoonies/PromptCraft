@@ -108,4 +108,4 @@ CC0-1.0 — public domain, use it however you want.
 
 ---
 
-*Built with Claude · [Anthropic](https://www.anthropic.com)*
+
